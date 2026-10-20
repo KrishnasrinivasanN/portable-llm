@@ -1,0 +1,15 @@
+# User Profile
+
+## Learning preferences
+- Prefers step-by-step guidance when setting up technical projects.
+- Wants to understand the concepts and reasoning, not just copy finished code.
+- Prefers direct answers and incremental instructions.
+
+## Technical interests
+- Full-stack development and AI/LLMs.
+- Interested in building useful software products and SaaS ideas.
+
+## Working preferences
+- When troubleshooting, change one thing at a time.
+- Avoid unnecessary hardware diagnostics unless requested.
+- Continue from established progress rather than restarting from scratch.
