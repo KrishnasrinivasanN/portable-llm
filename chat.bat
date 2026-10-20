@@ -27,7 +27,7 @@ if not exist "%LLAMA%" (
 
 echo.
 echo ===================================
-echo       PORTABLE AI - OFFLINE
+echo       ORION - OFFLINE
 echo ===================================
 echo.
 
